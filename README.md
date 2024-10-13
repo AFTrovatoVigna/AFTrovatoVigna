@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**AFTrovatoVigna/AFTrovatoVigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Arian Trovato, un **Full Stack Developer** en proceso y estudiante de **Ingeniería en Sistemas**. Me apasiona crear aplicaciones web que resuelvan problemas reales. 
 
-Here are some ideas to get you started:
+### 🔭 Actualmente estoy trabajando en:
+- proyectos personales para reforzar conocimientos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Estoy aprendiendo:
+- Mejores prácticas en git y github, tambien proyectos con python.
+
+### 👯 Estoy buscando colaborar en:
+- Proyectos interesantes que utilicen **NestJS** y **Next.js**.
+
+### 🤔 Pregúntame sobre:
+- Desarrollo de software, tecnologías web y buenas prácticas en programación.
+
+### 📫 ¿Cómo contactarme?
+- **Email:** [fedetrovato21@gmail.com](mailto:fedetrovato21@gmail.com)
+- **LinkedIn:** [Arian Trovato](https://www.linkedin.com/in/arian-trovato-490a61274)
+- **GitHub:** [AFTrovatoVigna](https://github.com/AFTrovatoVigna)
+
+### ⚡ Un dato curioso:
+- Me encanta aprender sobre nuevas tecnologías y tendencias en el desarrollo de software, ademas soy bueno trabajando en equipo.
+
+¡Gracias por visitar mi perfil!
