@@ -6,7 +6,7 @@ Soy Arian Trovato, un **Full Stack Developer** en proceso y estudiante de **Inge
 - proyectos personales para reforzar conocimientos.
 
 ### 🌱 Estoy aprendiendo:
-- Mejores prácticas en git y github, tambien proyectos con python.
+- Mejores prácticas en git y github, tambien proyectos en python.
 
 ### 👯 Estoy buscando colaborar en:
 - Proyectos interesantes que utilicen **NestJS** y **Next.js**.
